@@ -1,5 +1,8 @@
 # Project Notes
 
+
+![Thumbnail](/thumbnail.png?raw=true "Thumbnail")
+
 ## Team Members:
 - Rounak Bhowmik
 - Stanley Fung
@@ -23,5 +26,3 @@ Most of our team had little to no experience dealing with Python, so we had to l
 
 ## What's next for Stonk Snake
 In the future, our team can incorporate more companies into the game and implement power-ups within the game. We can also incorporate this program into a website or even a mobile application.
-
-![Thumbnail](/thumbnail.png?raw=true "Thumbnail")
