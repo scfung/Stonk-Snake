@@ -1,5 +1,9 @@
 # Project Notes
 
+## Team Members:
+- Rounak Bhowmik
+- Stanley Fung
+
 ## Inspiration: 
 
 Our team wanted to attempt to do the GameDev hack that was given as one of the categories for the SBU Hackathon. 
