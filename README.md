@@ -7,6 +7,7 @@ or Download repo as Zip, unzip, and run main.py
 ## Team Members:
 - Rounak Bhowmik
 - Stanley Fung
+- William Mullin
 
 ## Inspiration: 
 
