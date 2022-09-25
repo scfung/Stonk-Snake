@@ -1,7 +1,6 @@
-# Project Notes
-
 
 ![Thumbnail](/thumbnail.png?raw=true "Thumbnail")
+# Project Notes
 
 ## Team Members:
 - Rounak Bhowmik
