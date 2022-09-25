@@ -1,0 +1,49 @@
+AAPL	Apple Inc. Common Stock
+MSFT	Microsoft Corporation Common Stock
+GOOG	Alphabet Inc. Class C Capital Stock
+GOOGL	Alphabet Inc. Class A Common Stock
+AMZN	Amazon.com Inc. Common Stock
+TSLA	Tesla Inc. Common Stock
+BRK/A	Berkshire Hathaway Inc.
+BRK/B	Berkshire Hathaway Inc.
+UNH	UnitedHealth Group Incorporated Common Stock (DE)
+JNJ	Johnson & Johnson Common Stock
+V	Visa Inc.
+TSM	Taiwan Semiconductor Manufacturing Company Ltd.
+META	Meta Platforms Inc. Class A Common Stock
+XOM	Exxon Mobil Corporation Common Stock
+WMT	Walmart Inc. Common Stock
+PG	Procter & Gamble Company (The) Common Stock
+JPM	JP Morgan Chase & Co. Common Stock
+NVDA	NVIDIA Corporation Common Stock
+LLY	Eli Lilly and Company Common Stock
+MA	Mastercard Incorporated Common Stock
+CVX	Chevron Corporation Common Stock
+HD	Home Depot Inc. (The) Common Stock
+BAC	Bank of America Corporation Common Stock
+KO	Coca-Cola Company (The) Common Stock
+ABBV	AbbVie Inc. Common Stock
+PFE	Pfizer Inc. Common Stock
+PEP	PepsiCo Inc. Common Stock
+NVO	Novo Nordisk A/S Common Stock
+MRK	Merck & Company Inc. Common Stock (new)
+BABA	Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share
+COST	Costco Wholesale Corporation Common Stock
+TMO	Thermo Fisher Scientific Inc Common Stock
+DHR	Danaher Corporation Common Stock
+AVGO	Broadcom Inc. Common Stock
+TM	Toyota Motor Corporation Common Stock
+DIS	Walt Disney Company (The) Common Stock
+MCD	McDonald's Corporation Common Stock
+ABT	Abbott Laboratories Common Stock
+ORCL	Oracle Corporation Common Stock
+SHEL	Royal Dutch Shell PLC American Depositary Shares (each representing two (2) Ordinary Shares) 
+ASML	ASML Holding N.V. New York Registry Shares
+AZN	AstraZeneca PLC American Depositary Shares
+CSCO	Cisco Systems Inc. Common Stock (DE)
+VZ	Verizon Communications Inc. Common Stock
+TMUS	T-Mobile US Inc. Common Stock
+NVS	Novartis AG Common Stock
+ACN	Accenture plc Class A Ordinary Shares (Ireland)
+NEE	NextEra Energy Inc. Common Stock
+WFC	Wells Fargo & Company Common Stock
